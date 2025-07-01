@@ -28,4 +28,4 @@ O GitHub Copilot faz total diferença na execução dos códigos, aprendizado, i
 
 # Imagens
 
-Acompanhe algumas imagens do processo no link 
+Acompanhe algumas imagens do processo no link https://github.com/giseleti/desafio-validador-cart-o-githubcopilot/blob/main/imagens.md 
